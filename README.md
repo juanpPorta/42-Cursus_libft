@@ -33,6 +33,13 @@ ft_putstr_fd.c
 ft_split.c
 ft_strchr.c
 ft_strdup.c
+
+
+testers
+
+https://github.com/alelievr/libft-unit-test escudos
+https://github.com/Tripouille/libftTester tripouille
+
 ft_strjoin.c
 ft_strlcat.c
 ft_strlcpy.c
